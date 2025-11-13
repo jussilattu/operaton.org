@@ -70,7 +70,7 @@
 
 - name: Neutral Consulting Oy
   logo: /assets/img/service-providers/neutral_consulting_logo.jpg
-  services: [0, 3, 4]
+  services: [3, 4]
   location:
     country: Finland
     city: Espoo
